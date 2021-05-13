@@ -4,5 +4,6 @@
 * Git init
 * Git add nome_do_arquivo
 * Git add *
+* Git add .
 * Git commit -m
 * Git push
